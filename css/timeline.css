@@ -172,7 +172,7 @@ img.resize {
   }
   
   .timeline > li > .timeline-panel {
-    width: 46%;
+    width: 80%;
     float: right;
     border: 1px solid #d4d4d4;
     border-radius: 2px;
