@@ -159,7 +159,7 @@ img.resize {
     height: 180px;
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 450px) {
   .timeline > li > .timeline-panel {
     width: 46%;
     float: right;
