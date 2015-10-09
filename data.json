@@ -194,9 +194,17 @@
       "latest":  "latest"
     },
     {
+      "badge": "agents",
+      "imdb": "http://www.imdb.com/title/tt2364582",
+      "order": 25,
+      "poster": "posters/agents-of-shield.jpg#",
+      "subtitle": "Season 3 - Episodes 1 to 22",
+      "title": "Agents of Shield"
+    },
+    {
       "badge": "cap",
       "imdb": "http://www.imdb.com/title/tt3498820",
-      "order": 25,
+      "order": 26,
       "poster": "posters/placeholder.png#",
       "subtitle": "Civil War",
       "title": "Captain America 3"
@@ -204,7 +212,7 @@
     {
       "badge": "strange",
       "imdb": "http://www.imdb.com/title/tt1211837",
-      "order": 26,
+      "order": 27,
       "poster": "posters/placeholder.png#",
       "subtitle": "",
       "title": "Doctor Strange"
@@ -212,7 +220,7 @@
     {
       "badge": "guardians",
       "imdb": "http://www.imdb.com/title/tt3896198",
-      "order": 27,
+      "order": 28,
       "poster": "posters/placeholder.png#",
       "subtitle": "",
       "title": "Guardians of the Galaxy 2"
@@ -220,7 +228,7 @@
     {
       "badge": "thor",
       "imdb": "http://www.imdb.com/title/tt3501632",
-      "order": 28,
+      "order": 29,
       "poster": "posters/placeholder.png#",
       "subtitle": "Ragnarok",
       "title": "Thor 3"
@@ -228,15 +236,23 @@
     {
       "badge": "panther",
       "imdb": "http://www.imdb.com/title/tt1825683",
-      "order": 29,
+      "order": 30,
       "poster": "posters/placeholder.png#",
       "subtitle": "",
       "title": "Black Panther"
     },
     {
+      "badge": "ant",
+      "imdb": "http://www.imdb.com/title/tt5095030",
+      "order": 31,
+      "poster": "posters/placeholder.png#",
+      "subtitle": "",
+      "title": "Ant-Man and the Wasp"
+    },
+    {
       "badge": "avengers",
       "imdb": "http://www.imdb.com/title/tt4154756",
-      "order": 30,
+      "order": 32,
       "poster": "posters/placeholder.png#",
       "subtitle": "Infinity War Part I",
       "title": "Avengers 3"
@@ -244,7 +260,7 @@
     {
       "badge": "marvel",
       "imdb": "http://www.imdb.com/title/tt4154664",
-      "order": 31,
+      "order": 33,
       "poster": "posters/placeholder.png#",
       "subtitle": "",
       "title": "Captain Marvel"
@@ -252,7 +268,7 @@
     {
       "badge": "inhumans",
       "imdb": "http://www.imdb.com/title/tt4154858",
-      "order": 32,
+      "order": 34,
       "poster": "posters/placeholder.png#",
       "subtitle": "",
       "title": "Inhumans"
@@ -260,7 +276,7 @@
     {
       "badge": "avengers",
       "imdb": "http://www.imdb.com/title/tt4154796",
-      "order": 33,
+      "order": 35,
       "poster": "posters/placeholder.png#",
       "subtitle": "Infinity War Part II",
       "title": "Avengers 4"
