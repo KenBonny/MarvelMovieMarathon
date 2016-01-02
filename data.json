@@ -190,8 +190,7 @@
       "order": 24,
       "poster": "posters/ant-man-1.jpg#",
       "subtitle": "",
-      "title": "Ant-Man",
-      "latest":  "latest"
+      "title": "Ant-Man"
     },
     {
       "badge": "agents",
@@ -207,7 +206,8 @@
       "order": 26,
       "poster": "posters/captain-america-3.jpg#",
       "subtitle": "Civil War",
-      "title": "Captain America 3"
+      "title": "Captain America 3",
+      "latest": "latest"
     },
     {
       "badge": "strange",
@@ -229,7 +229,7 @@
       "badge": "thor",
       "imdb": "http://www.imdb.com/title/tt3501632",
       "order": 29,
-      "poster": "posters/placeholder.png#",
+      "poster": "posters/thor-3.jpg#",
       "subtitle": "Ragnarok",
       "title": "Thor 3"
     },
@@ -237,7 +237,7 @@
       "badge": "panther",
       "imdb": "http://www.imdb.com/title/tt1825683",
       "order": 30,
-      "poster": "posters/placeholder.png#",
+      "poster": "posters/panther-1.jpg#",
       "subtitle": "",
       "title": "Black Panther"
     },
@@ -253,7 +253,7 @@
       "badge": "avengers",
       "imdb": "http://www.imdb.com/title/tt4154756",
       "order": 32,
-      "poster": "posters/placeholder.png#",
+      "poster": "posters/avengers-3.jpg#",
       "subtitle": "Infinity War Part I",
       "title": "Avengers 3"
     },
@@ -261,7 +261,7 @@
       "badge": "marvel",
       "imdb": "http://www.imdb.com/title/tt4154664",
       "order": 33,
-      "poster": "posters/placeholder.png#",
+      "poster": "posters/marvel-1.jpg#",
       "subtitle": "",
       "title": "Captain Marvel"
     },
@@ -269,7 +269,7 @@
       "badge": "inhumans",
       "imdb": "http://www.imdb.com/title/tt4154858",
       "order": 34,
-      "poster": "posters/placeholder.png#",
+      "poster": "posters/inhumans-1.jpg#",
       "subtitle": "",
       "title": "Inhumans"
     },
@@ -277,7 +277,7 @@
       "badge": "avengers",
       "imdb": "http://www.imdb.com/title/tt4154796",
       "order": 35,
-      "poster": "posters/placeholder.png#",
+      "poster": "posters/avengers-4.jpg#",
       "subtitle": "Infinity War Part II",
       "title": "Avengers 4"
     }
