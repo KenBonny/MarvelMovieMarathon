@@ -143,6 +143,9 @@
 .timeline-badge.inhumans {
   background-color: #81AFF6 !important;
 }
+.timeline-badge.jones {
+  background-color: #D8D7A9 !important;
+}
 .timeline-title {
   margin-top: 0;
   color: inherit;
