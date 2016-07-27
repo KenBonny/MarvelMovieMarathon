@@ -229,8 +229,7 @@
       "order": 26,
       "poster": "posters/captain-america-3.jpg#",
       "subtitle": "Civil War",
-      "title": "Captain America 3",
-      "latest": "latest"
+      "title": "Captain America 3"
     },
     {
       "badge": "agents",
@@ -246,7 +245,8 @@
       "order": 27,
       "poster": "posters/doctor-strange-1.jpg#",
       "subtitle": "",
-      "title": "Doctor Strange"
+      "title": "Doctor Strange",
+      "latest": "latest"
     },
     {
       "badge": "guardians",
