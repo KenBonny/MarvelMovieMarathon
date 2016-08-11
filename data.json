@@ -260,7 +260,7 @@
       "badge": "spiderman",
       "imdb": "https://www.imdb.com/title/tt2250912/",
       "order": 29,
-      "poster": "posers/spiderman-1.jpg#",
+      "poster": "posters/spiderman-1.jpg#",
       "subtitle": "Homecoming",
       "title": "Spiderman"
     },
@@ -292,7 +292,7 @@
       "badge": "ant",
       "imdb": "https://www.imdb.com/title/tt5095030",
       "order": 33,
-      "poster": "posters/ant-man-2.jpg#",
+      "poster": "posters/ant-man-2.png#",
       "subtitle": "",
       "title": "Ant-Man and the Wasp"
     },
