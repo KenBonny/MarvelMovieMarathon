@@ -245,8 +245,7 @@
       "order": 27,
       "poster": "posters/doctor-strange-1.jpg#",
       "subtitle": "",
-      "title": "Doctor Strange",
-      "latest": "latest"
+      "title": "Doctor Strange"
     },
     {
       "badge": "guardians",
@@ -254,7 +253,8 @@
       "order": 28,
       "poster": "posters/guardians-of-the-galaxy-2.jpg#",
       "subtitle": "",
-      "title": "Guardians of the Galaxy 2"
+      "title": "Guardians of the Galaxy 2",
+      "latest": "latest"
     },
     {
       "badge": "spiderman",
