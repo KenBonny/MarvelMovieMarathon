@@ -3,7 +3,6 @@
     {
       "badge": "cap",
       "imdb": "https://www.imdb.com/title/tt0458339",
-      "order": 1,
       "poster": "posters/captain-america-1.jpg#",
       "subtitle": "The First Avenger",
       "title": "Captain America"
@@ -11,7 +10,6 @@
     {
       "badge": "one-shot",
       "imdb": "https://www.imdb.com/title/tt3067038",
-      "order": 2,
       "poster": "posters/one-shot-agent-carter.png#",
       "subtitle": "One Shot",
       "title": "Agent Carter"
@@ -19,7 +17,6 @@
     {
       "badge": "carter",
       "imdb": "https://www.imdb.com/title/tt3475734",
-      "order": 3,
       "poster": "posters/agent-carter.jpg#",
       "subtitle": "Season 1",
       "title": "Agent Carter"
@@ -27,7 +24,6 @@
     {
       "badge": "carter",
       "imdb": "https://www.imdb.com/title/tt3475734",
-      "order": 3,
       "poster": "posters/agent-carter.jpg#",
       "subtitle": "Season 2",
       "title": "Agent Carter"
@@ -35,7 +31,6 @@
     {
       "badge": "iron",
       "imdb": "https://www.imdb.com/title/tt0371746",
-      "order": 4,
       "poster": "posters/iron-man-1.jpg#",
       "subtitle": "",
       "title": "Iron Man"
@@ -43,7 +38,6 @@
     {
       "badge": "hulk",
       "imdb": "https://www.imdb.com/title/tt0800080",
-      "order": 5,
       "poster": "posters/the-incredible-hulk.jpg#",
       "subtitle": "",
       "title": "The Incredible Hulk"
@@ -51,7 +45,6 @@
     {
       "badge": "iron",
       "imdb": "https://www.imdb.com/title/tt1228705",
-      "order": 6,
       "poster": "posters/iron-man-2.jpg#",
       "subtitle": "",
       "title": "Iron Man 2"
@@ -59,7 +52,6 @@
     {
       "badge": "one-shot",
       "imdb": "https://www.imdb.com/title/tt2011118",
-      "order": 7,
       "poster": "posters/one-shot-the-consultant.jpg#",
       "subtitle": "One Shot",
       "title": "The Consultant"
@@ -67,7 +59,6 @@
     {
       "badge": "one-shot",
       "imdb": "https://www.imdb.com/title/tt2011109",
-      "order": 8,
       "poster": "posters/one-shot-a-funny-thing.jpg#",
       "subtitle": "One Shot",
       "title": "A Funny Thing Happened on the Way to Thor's Hammer"
@@ -75,7 +66,6 @@
     {
       "badge": "thor",
       "imdb": "https://www.imdb.com/title/tt0800369",
-      "order": 9,
       "poster": "posters/thor-1.jpg#",
       "subtitle": "",
       "title": "Thor"
@@ -83,7 +73,6 @@
     {
       "badge": "avengers",
       "imdb": "https://www.imdb.com/title/tt0848228",
-      "order": 10,
       "poster": "posters/avengers-1.jpg#",
       "subtitle": "",
       "title": "The Avengers"
@@ -91,7 +80,6 @@
     {
       "badge": "one-shot",
       "imdb": "https://www.imdb.com/title/tt2247732",
-      "order": 11,
       "poster": "posters/one-shot-item-47.jpg#",
       "subtitle": "One Shot",
       "title": "Item 47"
@@ -99,7 +87,6 @@
     {
       "badge": "iron",
       "imdb": "https://www.imdb.com/title/tt1300854",
-      "order": 12,
       "poster": "posters/iron-man-3.jpg#",
       "subtitle": "",
       "title": "Iron Man 3"
@@ -107,7 +94,6 @@
     {
       "badge": "one-shot",
       "imdb": "https://www.imdb.com/title/tt3438640",
-      "order": 13,
       "poster": "posters/one-shot-all-hail-the-king.jpg#",
       "subtitle": "One Shot",
       "title": "All Hail The King"
@@ -115,7 +101,6 @@
     {
       "badge": "agents",
       "imdb": "https://www.imdb.com/title/tt2364582",
-      "order": 14,
       "poster": "posters/agents-of-shield.jpg#",
       "subtitle": "Season 1 - Episodes 1 to 7",
       "title": "Agents of Shield"
@@ -123,7 +108,6 @@
     {
       "badge": "thor",
       "imdb": "https://www.imdb.com/title/tt1981115",
-      "order": 15,
       "poster": "posters/thor-2.jpg#",
       "subtitle": "The Dark World",
       "title": "Thor 2"
@@ -131,7 +115,6 @@
     {
       "badge": "agents",
       "imdb": "https://www.imdb.com/title/tt2364582",
-      "order": 16,
       "poster": "posters/agents-of-shield.jpg#",
       "subtitle": "Season 1 - Episodes 8 to 15",
       "title": "Agents of Shield"
@@ -139,7 +122,6 @@
     {
       "badge": "cap",
       "imdb": "https://www.imdb.com/title/tt1843866",
-      "order": 17,
       "poster": "posters/captain-america-2.jpg#",
       "subtitle": "The Winter Soldier",
       "title": "Captain America 2"
@@ -147,7 +129,6 @@
     {
       "badge": "agents",
       "imdb": "https://www.imdb.com/title/tt2364582",
-      "order": 18,
       "poster": "posters/agents-of-shield.jpg#",
       "subtitle": "Season 1 - Episodes 16 to 22",
       "title": "Agents of Shield"
@@ -155,7 +136,6 @@
     {
       "badge": "guardians",
       "imdb": "https://www.imdb.com/title/tt2015381",
-      "order": 19,
       "poster": "posters/guardians-of-the-galaxy-1.jpg#",
       "subtitle": "",
       "title": "Guardians of the Galaxy"
@@ -163,7 +143,6 @@
     {
       "badge": "daredevil",
       "imdb": "https://www.imdb.com/title/tt3322312",
-      "order": 20,
       "poster": "posters/daredevil.jpg#",
       "subtitle": "Season 1",
       "title": "Daredevil"
@@ -171,7 +150,6 @@
     {
       "badge": "agents",
       "imdb": "https://www.imdb.com/title/tt2364582",
-      "order": 21,
       "poster": "posters/agents-of-shield.jpg#",
       "subtitle": "Season 2 - Episodes 1 to 19",
       "title": "Agents of Shield"
@@ -179,7 +157,6 @@
     {
       "badge": "avengers",
       "imdb": "https://www.imdb.com/title/tt2395427",
-      "order": 22,
       "poster": "posters/avengers-2.jpg#",
       "subtitle": "Age of Ultron",
       "title": "Avengers 2"
@@ -187,7 +164,6 @@
     {
       "badge": "agents",
       "imdb": "https://www.imdb.com/title/tt2364582",
-      "order": 23,
       "poster": "posters/agents-of-shield.jpg#",
       "subtitle": "Season 2 - Episodes 20-22",
       "title": "Agents of Shield"
@@ -195,7 +171,6 @@
     {
       "badge": "ant",
       "imdb": "https://www.imdb.com/title/tt0478970",
-      "order": 24,
       "poster": "posters/ant-man-1.jpg#",
       "subtitle": "",
       "title": "Ant-Man"
@@ -203,7 +178,6 @@
     {
       "badge": "agents",
       "imdb": "https://www.imdb.com/title/tt2364582",
-      "order": 25,
       "poster": "posters/agents-of-shield.jpg#",
       "subtitle": "Season 3 - Episodes 1 to 19",
       "title": "Agents of Shield"
@@ -211,7 +185,6 @@
     {
       "badge": "jones",
       "imdb": "https://www.imdb.com/title/tt2357547",
-      "order": 26,
       "poster": "posters/jessica-jones.jpg#",
       "subtitle": "Season 1",
       "title": "Jessica Jones"
@@ -219,7 +192,6 @@
     {
       "badge": "daredevil",
       "imdb": "https://www.imdb.com/title/tt3322312",
-      "order": 27,
       "poster": "posters/daredevil.jpg#",
       "subtitle": "Season 2",
       "title": "Daredevil"
@@ -227,7 +199,6 @@
     {
       "badge": "cage",
       "imdb": "https://www.imdb.com/title/tt3322314",
-      "order": 28,
       "poster": "posters/luke-cage.jpg#",
       "subtitle": "Season 1",
       "title": "Luke Cage"
@@ -235,7 +206,6 @@
     {
       "badge": "cap",
       "imdb": "https://www.imdb.com/title/tt3498820",
-      "order": 29,
       "poster": "posters/captain-america-3.jpg#",
       "subtitle": "Civil War",
       "title": "Captain America 3"
@@ -243,7 +213,6 @@
     {
       "badge": "agents",
       "imdb": "https://www.imdb.com/title/tt2364582",
-      "order": 30,
       "poster": "posters/agents-of-shield.jpg#",
       "subtitle": "Season 3 - Episodes 20 to 22",
       "title": "Agents of Shield"
@@ -251,7 +220,6 @@
     {
       "badge": "strange",
       "imdb": "https://www.imdb.com/title/tt1211837",
-      "order": 31,
       "poster": "posters/doctor-strange-1.jpg#",
       "subtitle": "",
       "title": "Doctor Strange"
@@ -259,7 +227,6 @@
     {
       "badge": "fist",
       "imdb": "https://www.imdb.com/title/tt3322310",
-      "order": 32,
       "poster": "posters/iron-fist.jpg#",
       "subtitle": "Season 1",
       "title": "Iron Fist"
@@ -267,7 +234,6 @@
     {
       "badge": "guardians",
       "imdb": "https://www.imdb.com/title/tt3896198",
-      "order": 33,
       "poster": "posters/guardians-of-the-galaxy-2.jpg#",
       "subtitle": "",
       "title": "Guardians of the Galaxy 2",
@@ -276,7 +242,6 @@
     {
       "badge": "spiderman",
       "imdb": "https://www.imdb.com/title/tt2250912",
-      "order": 34,
       "poster": "posters/spiderman-1.jpg#",
       "subtitle": "Homecoming",
       "title": "Spiderman"
@@ -284,7 +249,6 @@
     {
       "badge": "thor",
       "imdb": "https://www.imdb.com/title/tt3501632",
-      "order": 35,
       "poster": "posters/thor-3.jpg#",
       "subtitle": "Ragnarok",
       "title": "Thor 3"
@@ -292,7 +256,6 @@
     {
       "badge": "panther",
       "imdb": "https://www.imdb.com/title/tt1825683",
-      "order": 36,
       "poster": "posters/panther-1.jpg#",
       "subtitle": "",
       "title": "Black Panther"
@@ -300,7 +263,6 @@
     {
       "badge": "avengers",
       "imdb": "https://www.imdb.com/title/tt4154756",
-      "order": 37,
       "poster": "posters/avengers-3.jpg#",
       "subtitle": "Infinity War Part I",
       "title": "Avengers 3"
@@ -308,7 +270,6 @@
     {
       "badge": "ant",
       "imdb": "https://www.imdb.com/title/tt5095030",
-      "order": 38,
       "poster": "posters/ant-man-2.png#",
       "subtitle": "",
       "title": "Ant-Man and the Wasp"
@@ -316,7 +277,6 @@
     {
       "badge": "marvel",
       "imdb": "https://www.imdb.com/title/tt4154664",
-      "order": 39,
       "poster": "posters/marvel-1.jpg#",
       "subtitle": "",
       "title": "Captain Marvel"
@@ -324,7 +284,6 @@
     {
       "badge": "inhumans",
       "imdb": "https://www.imdb.com/title/tt4154858",
-      "order": 40,
       "poster": "posters/inhumans-1.jpg#",
       "subtitle": "",
       "title": "Inhumans"
@@ -332,7 +291,6 @@
     {
       "badge": "avengers",
       "imdb": "https://www.imdb.com/title/tt4154796",
-      "order": 41,
       "poster": "posters/avengers-4.jpg#",
       "subtitle": "Infinity War Part II",
       "title": "Avengers 4"
