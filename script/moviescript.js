@@ -1,5 +1,5 @@
 ﻿$.getJSON("data.json", function(data) {
-    var movies = data.movies;//.sort(function (a, b) { return a.order - b.order });
+    var movies = data.movies;
     var template = $("#movie-template").html();
     var inverted = $("#movie-template-inverted").html();
 
