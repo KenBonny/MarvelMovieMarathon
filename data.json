@@ -224,6 +224,14 @@
       "title": "Daredevil"
     },
     {
+      "badge": "cage",
+      "imdb": "https://www.imdb.com/title/tt3322314",
+      "order": 20,
+      "poster": "posters/luke-cage.jpg#",
+      "subtitle": "Season 1",
+      "title": "Luke Cage"
+    },
+    {
       "badge": "cap",
       "imdb": "https://www.imdb.com/title/tt3498820",
       "order": 26,
