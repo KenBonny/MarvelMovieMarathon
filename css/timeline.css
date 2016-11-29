@@ -158,6 +158,9 @@
 .timeline-badge.defenders {
   background-color: #000000 !important;
 }
+.timeline-badge.punisher {
+  background-color: #F7F7F7 !important;
+}
 .timeline-title {
   margin-top: 0;
   color: inherit;
