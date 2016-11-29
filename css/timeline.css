@@ -149,6 +149,9 @@
 .timeline-badge.spiderman {
   background-color: #D30913 !important;
 }
+.timeline-badge.cage {
+  background-color: #FFD700 !important;
+}
 .timeline-title {
   margin-top: 0;
   color: inherit;
