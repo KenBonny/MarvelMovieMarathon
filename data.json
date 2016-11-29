@@ -301,6 +301,13 @@
       "poster": "posters/defenders.jpg#",
       "subtitle": "Season 1",
       "title": "Defenders"
+    },
+    {
+      "badge": "punisher",
+      "imdb": "https://www.imdb.com/title/tt0330793",
+      "poster": "posters/punisher.jpg#",
+      "subtitle": "Season 1",
+      "title": "The Punisher"
     }
   ]
 }
