@@ -308,6 +308,20 @@
       "poster": "posters/punisher.jpg#",
       "subtitle": "Season 1",
       "title": "The Punisher"
+    },
+    {
+      "badge": "daredevil",
+      "imdb": "https://www.imdb.com/title/tt3322312",
+      "poster": "posters/daredevil.jpg#",
+      "subtitle": "Season 3",
+      "title": "Daredevil"
+    },
+    {
+      "badge": "jones",
+      "imdb": "https://www.imdb.com/title/tt2357547",
+      "poster": "posters/jessica-jones.jpg#",
+      "subtitle": "Season 2",
+      "title": "Jessica Jones"
     }
   ]
 }
