@@ -225,13 +225,6 @@
       "title": "Doctor Strange"
     },
     {
-      "badge": "fist",
-      "imdb": "https://www.imdb.com/title/tt3322310",
-      "poster": "posters/iron-fist.jpg#",
-      "subtitle": "Season 1",
-      "title": "Iron Fist"
-    },
-    {
       "badge": "guardians",
       "imdb": "https://www.imdb.com/title/tt3896198",
       "poster": "posters/guardians-of-the-galaxy-2.jpg#",
@@ -294,6 +287,13 @@
       "poster": "posters/avengers-4.jpg#",
       "subtitle": "Infinity War Part II",
       "title": "Avengers 4"
+    },
+    {
+      "badge": "fist",
+      "imdb": "https://www.imdb.com/title/tt3322310",
+      "poster": "posters/iron-fist.jpg#",
+      "subtitle": "Season 1",
+      "title": "Iron Fist"
     }
   ]
 }
