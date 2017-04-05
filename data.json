@@ -218,6 +218,13 @@
       "title": "Agents of Shield"
     },
     {
+      "badge": "agents",
+      "imdb": "https://www.imdb.com/title/tt2364582",
+      "poster": "posters/agents-of-shield.jpg#",
+      "subtitle": "Season 4 - Episodes 1 to 4",
+      "title": "Agents of Shield"
+    },
+    {
       "badge": "strange",
       "imdb": "https://www.imdb.com/title/tt1211837",
       "poster": "posters/doctor-strange-1.jpg#",
@@ -225,19 +232,33 @@
       "title": "Doctor Strange"
     },
     {
-      "badge": "guardians",
-      "imdb": "https://www.imdb.com/title/tt3896198",
-      "poster": "posters/guardians-of-the-galaxy-2.jpg#",
-      "subtitle": "",
-      "title": "Guardians of the Galaxy 2",
-      "latest": "latest"
+      "badge": "agents",
+      "imdb": "https://www.imdb.com/title/tt2364582",
+      "poster": "posters/agents-of-shield.jpg#",
+      "subtitle": "Season 4 - Episodes 5 to 15",
+      "title": "Agents of Shield"
+    },
+    {
+      "badge": "fist",
+      "imdb": "https://www.imdb.com/title/tt3322310",
+      "poster": "posters/iron-fist.jpg#",
+      "subtitle": "Season 1",
+      "title": "Iron Fist"
     },
     {
       "badge": "spiderman",
       "imdb": "https://www.imdb.com/title/tt2250912",
       "poster": "posters/spiderman-1.jpg#",
       "subtitle": "Homecoming",
-      "title": "Spiderman"
+      "title": "Spiderman",
+      "latest": "latest"
+    },
+    {
+      "badge": "guardians",
+      "imdb": "https://www.imdb.com/title/tt3896198",
+      "poster": "posters/guardians-of-the-galaxy-2.jpg#",
+      "subtitle": "",
+      "title": "Guardians of the Galaxy 2"
     },
     {
       "badge": "thor",
@@ -287,13 +308,6 @@
       "poster": "posters/avengers-4.jpg#",
       "subtitle": "Infinity War Part II",
       "title": "Avengers 4"
-    },
-    {
-      "badge": "fist",
-      "imdb": "https://www.imdb.com/title/tt3322310",
-      "poster": "posters/iron-fist.jpg#",
-      "subtitle": "Season 1",
-      "title": "Iron Fist"
     },
     {
       "badge": "defenders",
