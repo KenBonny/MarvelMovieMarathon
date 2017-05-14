@@ -246,19 +246,19 @@
       "title": "Iron Fist"
     },
     {
+      "badge": "guardians",
+      "imdb": "https://www.imdb.com/title/tt3896198",
+      "poster": "posters/guardians-of-the-galaxy-2.jpg#",
+      "subtitle": "",
+      "title": "Guardians of the Galaxy 2"
+    },
+    {
       "badge": "spiderman",
       "imdb": "https://www.imdb.com/title/tt2250912",
       "poster": "posters/spiderman-1.jpg#",
       "subtitle": "Homecoming",
       "title": "Spiderman",
       "latest": "latest"
-    },
-    {
-      "badge": "guardians",
-      "imdb": "https://www.imdb.com/title/tt3896198",
-      "poster": "posters/guardians-of-the-galaxy-2.jpg#",
-      "subtitle": "",
-      "title": "Guardians of the Galaxy 2"
     },
     {
       "badge": "thor",
