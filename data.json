@@ -257,8 +257,7 @@
       "imdb": "https://www.imdb.com/title/tt2250912",
       "poster": "posters/spiderman-1.jpg#",
       "subtitle": "Homecoming",
-      "title": "Spiderman",
-      "latest": "latest"
+      "title": "Spiderman"
     },
     {
       "badge": "thor",
@@ -286,7 +285,8 @@
       "imdb": "https://www.imdb.com/title/tt5095030",
       "poster": "posters/ant-man-2.png#",
       "subtitle": "",
-      "title": "Ant-Man and the Wasp"
+      "title": "Ant-Man and the Wasp",
+      "latest": "latest"
     },
     {
       "badge": "marvel",
